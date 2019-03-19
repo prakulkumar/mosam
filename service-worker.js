@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mosam/precache-manifest.e5b2dd892689c6fce2c187653e29fd38.js"
+  "/mosam/precache-manifest.39476eb42907a530ccbf49fec8a80cb1.js"
 );
 
 workbox.clientsClaim();
