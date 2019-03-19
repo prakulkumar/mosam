@@ -1,4 +1,4 @@
-This is a Weather Forcast Website
+Mosam is a Weather Forcast Website
 
 Mosam shows weather forecast of 5 days for any City of any Country
 
@@ -19,3 +19,5 @@ Mosam shows weather forecast of 5 days for any City of any Country
     - Daywise Weather Forecast<br>
     - More User Friendly UI
   <br>
+
+  ## Hosted at: https://prakulkumar.github.io/mosam/<br><br><br><br>
